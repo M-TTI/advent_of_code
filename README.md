@@ -1,0 +1,1 @@
+first time doing advent of code, if you pass by i would love some feedback on things on my code that i could have done better
