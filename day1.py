@@ -34,7 +34,7 @@ def sum_numbers(string):
     return digits_string
 
 
-with open("day1_data", "r") as file:
+with open("day1_input", "r") as file:
     for line in file:
         stringf.append(line)
 
